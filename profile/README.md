@@ -1,9 +1,11 @@
-### ESG-Elektroniksystem-und-Logistik-GmbH/ESG-Elektroniksystem-und-Logistik-GmbH
+### HENSOLDT - Multi Domain Solutions Division
 
 <!--
-**ESG-Elektroniksystem-und-Logistik-GmbH/ESG-Elektroniksystem-und-Logistik-GmbH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HENSOLDT - Multi Domain Solutions Division** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-ESG is a manufacturer-independent system integrator and your technology and innovation partner for defence and public security. With our solutions and services, we are a driving force for secure digitalisation and networking in all dimensions. Innovative, with implementation expertise and passion: We develop, realise, support and operate individual platforms and complex complete systems.
+HENSOLDT is a leading company in the European defence industry with a global reach. Based in Taufkirchen near Munich, the company develops complete sensor solutions for defence and security applications.
+As a system integrator, HENSOLDT offers platform-independent, networked solutions. As a technology leader, the company is also driving forward the development of defence electronics and optronics and is continuously expanding its portfolio based on innovative approaches to data fusion, artificial intelligence and cyber security.
 
-[www.esg.de](https://esg.de/en)
+
+[www.hensoldt.net](https://www.hensoldt.net)
